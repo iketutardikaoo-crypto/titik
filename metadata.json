@@ -1,0 +1,6 @@
+{
+  "name": "Dots",
+  "description": "Asisten AI pribadi Dots yang cerdas dan serba bisa. Menjawab pertanyaan, mengelola tugas & jadwal harian, merangkum teks, menulis pesan, riset, serta dilengkapi game asah otak.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
